@@ -118,9 +118,10 @@ npm run dev
 ```bash
 npm install react-router-dom axios react-player react-infinite-scroll-component @reduxjs/toolkit react-redux
 ```
+---
+## 📚 Documentation 
 
-📚 Resources & References
-> Emphasizes learning sources or documentation used during development
+> Documentation used during development
 
 - [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
 - [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)
