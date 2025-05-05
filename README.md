@@ -138,7 +138,7 @@ In `public/index.html`, add:
 - [React Infinite Scroll](https://www.npmjs.com/package/react-infinite-scroll-component)
 
 ---
----
+
 
 
 ## 🛠️ To Do / Improvements
