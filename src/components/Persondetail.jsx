@@ -63,7 +63,7 @@ function Persondetail() {
       <div className='w-[80%] ml-[5%]'>
       <h1 className='text-6xl text-zinc-100 font-black my-5 '>{info.detail.name}</h1>
       <h1 className='text-xl text-zinc-200 font-semibold mt-5 '>Biography</h1>
-      <p className='text-zinc-400 mt-3'>{info.detail.biography}</p>
+      <p className='text-zinc-400 mt-3'>{info.detail.biography.slice(0,950)}</p>
 
       <h1 className='text-lg text-zinc-200 font-semibold mt-5 '>Known For</h1>
       <Horizontalcards data={info.combinedCredits.cast} />
@@ -80,7 +80,7 @@ function Persondetail() {
              <Link to={`/${category}/details/${c.id}`} className=''>
              <span>{c.name||c.title||c.original_title||c.original_name}</span>
              <span className='block mt-3'>{c.character && 
-              `Character Name: $ {c.character}`}</span>
+              `Character Name: ${c.character}`}</span>
              </Link>
              </li>
         )

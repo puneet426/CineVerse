@@ -23,3 +23,44 @@ i am using here The Movie DataBAse
 here we use infinite scroll the scroll the full data
 import it in trending.jsx
  import InfiniteScroll from 'react-infinite-scroll-component';
+
+structure 
+
+public
+src 
+   actions
+    movieActions.jsx
+    personActions.jsx
+    tvActions.jsx
+
+   assets
+   components
+        patials folder
+                Card.jsx
+                Dropdown.jsx
+                Headers.jsx
+                HorizontalCards.jsx
+                Sidenav.jsx
+                Topnav.jsx
+                Trailer.jsx
+        About.jsx
+        Contact.jsx
+        Home.jsx
+        Loading.jsx
+        Movie.jsx
+        Moviedetails.jsx
+        NotFound.jsx
+        People.jsx
+        Peopledetails.jsx
+        Popular.jsx
+        Trending.jsx
+        Tvdetails.jsx
+        Tvshow.jsx
+   reducers
+         movieSlice.jsx
+         personSlice.jsx
+         tvSlice.jsx
+   store
+        store.jsx
+   utils
+        axios.jsx
