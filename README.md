@@ -88,3 +88,74 @@ src/
 ```
 
 ---
+## 📦 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/puneet426/CineVerse
+cd cineverse
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start development server
+
+```bash
+npm run dev
+```
+---
+
+## 📁 Required Packages
+
+```bash
+npm install react-router-dom axios react-player react-infinite-scroll-component @reduxjs/toolkit react-redux
+```
+
+---
+
+## 🎨 Add Remix Icons
+
+In `public/index.html`, add:
+
+```html
+<link
+  href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css"
+  rel="stylesheet"
+/>
+```
+
+---
+## 🙌 Acknowledgements
+
+- [TMDB API](https://www.themoviedb.org/)
+- [React Player](https://github.com/cookpete/react-player)
+- [Remix Icon](https://remixicon.com/)
+- [React Infinite Scroll](https://www.npmjs.com/package/react-infinite-scroll-component)
+
+---
+---
+
+
+## 🛠️ To Do / Improvements
+
+- 📱 Make UI more responsive for mobile devices
+
+- ✨ Add user login / watchlist feature
+
+
+---
+## ⭐ Show Your Support
+
+If you enjoyed this project:
+
+- 🌟 Star the repository
+- 🍴 Fork it
+- 🧑‍💻 Contribute
+- 📢 Share with your friends
+
+---
