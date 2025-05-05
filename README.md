@@ -119,8 +119,11 @@ npm run dev
 npm install react-router-dom axios react-player react-infinite-scroll-component @reduxjs/toolkit react-redux
 ```
 
-## 🙌 Acknowledgements
+📚 Resources & References
+> Emphasizes learning sources or documentation used during development
 
+- [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
+- [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)
 - [TMDB API](https://www.themoviedb.org/)
 - [React Player](https://github.com/cookpete/react-player)
 - [Remix Icon](https://remixicon.com/)
