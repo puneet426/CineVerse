@@ -4,7 +4,7 @@ CineVerse is a feature-rich movie and TV show explorer built using **React JS**.
 
 ## 🎥 Demo
 
-![Project Demo](/CineVerse/public/Cineverse.gif)
+![Project Demo](/public/Cineverse.gif)
 
 🚀 **Live Demo**: [https://CineVerse.app/](https://cine-verse-kappa.vercel.app/)
 
